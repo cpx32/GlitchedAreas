@@ -1,4 +1,4 @@
-Glitched Worlds SMB1 Patch
+Glitched Worlds SMB1 Patch (Original URL: https://github.com/threecreepio/smb-glitchedworlds)
 ==========================
 
 This patch adds a world select menu when starting SMB1.
